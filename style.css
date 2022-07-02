@@ -1,0 +1,9 @@
+.controls {
+  float: left;
+  width: 250px;
+  height: auto;
+}
+
+#tetris-game {
+  margin-left: 50px;
+}
